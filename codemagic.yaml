@@ -2,7 +2,7 @@ workflows:
 
     sample-workflow:
 
-        name: Codemagic Sample Workflow
+        name: ohha
 
         max_build_duration: 120
 
